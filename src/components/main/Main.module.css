@@ -1,0 +1,21 @@
+.round{
+    border: 2.5px solid black;
+    border: none;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    margin: auto;
+    background-image: url('img/dXy3D.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.wrapper{
+    background-color: #003ECB;
+
+}
+
+.center{
+    max-width: 800px;
+    margin: auto;
+}
